@@ -8,3 +8,6 @@ NCEAS training to learn github
 - peaches
 - papaya
 - pluot
+
+- apricots
+- apples
