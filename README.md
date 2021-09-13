@@ -6,3 +6,5 @@ NCEAS training to learn github
 - pineapple
 - pear
 - peaches
+- papaya
+- peppers
