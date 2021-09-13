@@ -7,4 +7,4 @@ NCEAS training to learn github
 - pear
 - peaches
 - papaya
-- peppers
+- pluot
